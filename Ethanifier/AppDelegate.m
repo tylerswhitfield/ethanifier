@@ -19,7 +19,7 @@
 - (BOOL)application:(UIApplication *)application didFinishLaunchingWithOptions:(NSDictionary *)launchOptions {
 
     //TODO: Replace with an app token you generate for free at http://www.supportkit.io
-    SKTSettings* settings = [SKTSettings settingsWithAppToken:@"YOUR-APP-TOKEN"];
+    SKTSettings* settings = [SKTSettings settingsWithAppToken:@"a0zs3aw5z75125gxnwdtlovhc"];
     settings.enableAppWideGesture = NO;
     settings.enableGestureHintOnFirstLaunch = NO;
 
